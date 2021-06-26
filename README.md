@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sarem Tadele
+- 👀 I’m interested in Code, Games, and ofcourse Hacking
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on Mega Projects
+- 📫 You can reach me on Telegram @SaremT
